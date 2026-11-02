@@ -1,0 +1,17 @@
+# HBuilderX / uni-app generated output
+unpackage/
+dist/
+node_modules/
+
+# Local OCR models are distributed separately
+static/ocr/det/
+static/ocr/rec/
+static/ocr/keys.txt
+static/ocr/*.wasm
+static/ocr/*.data
+
+# Local IDE and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
